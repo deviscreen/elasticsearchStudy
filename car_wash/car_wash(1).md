@@ -18,6 +18,8 @@ https://www.data.go.kr/dataset/15013193/standard.do
 
 잠깐 데이터를 넣기 전에 geopoint 형식으로 데이터를 삽입할것이기때문에 location의 데이터 타입을 `geo-point` 로 변경하자 .
 
+`injest pipeline` 을 사용해보는것도 추천한다.
+
 ```shell
 PUT car_wash
 {
@@ -111,3 +113,16 @@ Excel에서는 한글로 열리지만 실제로 vi 를 사용하여 열어보니
 
 ![image-20191116103139048](/Users/daeyunkim/githubproject/elasticsearchStudy/car_wash/car_was_index.png)
 
+
+
+
+
+### Kibana 를 통해 시각화 한번 해보자 
+
+새로 넣은 데이터를 사용해서 시각화를 해봤다.
+
+잘 넣은 것같다.
+
+
+
+![image-20191116104533376](./car_wash_map.png)
