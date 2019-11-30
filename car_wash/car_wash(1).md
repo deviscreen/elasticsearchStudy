@@ -8,7 +8,7 @@ https://www.data.go.kr/dataset/15013193/standard.do
 
 수정을 한 세차장 정보는 다음과 같다 .
 
-![image-20191116010342675](/Users/daeyunkim/githubproject/elasticsearchStudy/car_wash/car_wash_data.png)
+![image-20191116010342675](./car_wash_data.png)
 
 
 
@@ -111,7 +111,7 @@ Excel에서는 한글로 열리지만 실제로 vi 를 사용하여 열어보니
 
 인코딩방법을 해결하고 다시 삽입! 
 
-![image-20191116103139048](/Users/daeyunkim/githubproject/elasticsearchStudy/car_wash/car_was_index.png)
+![image-20191116103139048](./car_was_index.png)
 
 
 
